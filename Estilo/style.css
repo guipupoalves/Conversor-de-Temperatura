@@ -12,6 +12,10 @@ body{
     margin-left: 2px;
 }
 
+footer{
+    text-align: center;
+}
+
 strong{
     color: white;
     text-shadow: -10px 6px 10px black;
