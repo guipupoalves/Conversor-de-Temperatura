@@ -11,6 +11,8 @@
  English Version:
 # Temperature Converter
 
+<a href="https://guipupoalves.github.io/projeto-conversor-de-temperatura/"> Open the Temperature Converter in a webpage </a>
+
 The idea behind ​​this project is to demonstrate, through a Temperature Converter using fundamentals of HTML + JavaScript and CSS, the manipulation of data entered by the user using the ".toUpperCase" function (as well as for ".toLowerCase"), in order to improve the quality of life and user interaction.
 
  The user will be able to type without worrying about upper or lower case, and whit JavaScript the correct conversion will be performed automatically.
