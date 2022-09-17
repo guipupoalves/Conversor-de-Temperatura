@@ -1,4 +1,6 @@
 # Conversor de Temperatura
+
+<a href="https://guipupoalves.github.io/projeto-conversor-de-temperatura/"> Abrir o Conversor de Temperatura para demonstração </a>
  
  A ideia desse projeto é demonstrar através de um Conversor de Temperatura usando fundamentos do HTML + JavaScript e CSS, a manipulação de dados inseridos pelo usuário com o uso da função ".toUpperCase" (idem para ".toLowerCase"), a fim de melhorar a praticidade e interação do usuário, de modo que não seja necessário a consideração exata da captalização das letras.
 
